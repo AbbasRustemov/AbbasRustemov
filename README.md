@@ -2,6 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+
+
+<h1> Note: </h1> <b> My Github profile is new. For this reason, projects may be few or none. I would like to inform you that in this case, I will add new projects as soon as possible. </b>
+
 <h3> 👨🏻•💻 About Me </h3>
 
 
